@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task</title>
+    <link rel="stylesheet" href="task4.css">
+    <style>
+        body{
+            background-color: rgb(37, 33, 33);
+            margin-right: 200px;
+            margin-left: 200px;
+        }
+        .ss{
+            background-color: gray;
+            height: 60px;
+            text-align: center;
+            color: white;
+        }
+        .vv{
+            background-color: rgb(26, 114, 177);
+            text-align: right;
+            padding: 1px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            color: white;
+            
+        }
+        .kk{
+            background-color: gray;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+            padding: 1px;
+            color: white;
+        }
+        .ks{
+            background-color:rgb(26, 114, 177); 
+            text-align: right;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            padding: 1px;
+            color: white;
+        }
+        .ka{
+            background-color: gray;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+            padding: 1px;
+            color: white;
+        }
+        .aa{
+            background-color: rgb(26, 114, 177);
+            text-align: right;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            padding: 1px;
+            color: white;
+        }
+        .rk{
+            background-color:gray ;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+            padding: 1px;
+            color: white;
+
+        }
+        .ll{
+            background-color: rgb(26, 114, 177);
+            text-align: right;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            padding: 1px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="ss">
+    <h3>Rahul</h3>
+    
+</div>
+<br><br>
+<div class="vv">
+    <p>Hello Rahul,how are you?</p>
+    </div>
+    <br>
+    <div class="kk">
+    <p>Hi Varakumar, I am good. How about you?</p>
+</div>
+<br>
+<div class="ks">
+    <p>I'm fine. I published my website recently</p>
+</div>
+<br>
+<div class="ka">
+
+    <p>Oh great Varakumar! Can you send me the URL</p>
+</div>
+<br>
+<div class="aa">
+    <p>https:// varakumar.ccbp.teck</p>
+</div >
+<br>
+<div class="rk">
+    <p>Awesome varakumar, where did you learn?</p>
+</div>
+<br>
+<div class="ll">
+    <p>NxtWave CCBP4.0 Program</p>
+</div>
+
+</body>
+</html>
